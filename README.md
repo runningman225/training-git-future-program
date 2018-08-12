@@ -1,4 +1,4 @@
 #Blibli Future Program
 Anthony
-kak aldi
-kak nike
+Kak Aldi 
+Kak Nike
